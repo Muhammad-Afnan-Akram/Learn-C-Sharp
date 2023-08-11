@@ -15,7 +15,7 @@ promoting loose coupling between classes while allowing them to share a common c
 - Interfaces are used when you want to define a contract for unrelated classes, allowing them to share a 
 common set of methods and properties.*/
 
-using System;
+/*using System;
 
 // Define an interface named IShape
 interface IShape
@@ -73,7 +73,7 @@ class Program
         Console.WriteLine($"Rectangle Area: {rectangle.Area}");
     }
 }
-
+*/
 //Outputter:
 //Circle Area: 78.53981633974483
 //Rectangle Area: 24
